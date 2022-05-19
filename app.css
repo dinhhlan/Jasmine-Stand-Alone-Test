@@ -3,11 +3,11 @@ display: flex;
 justify-content: center;
 align-items: center;
 height: 100vh;
-background-color: teal;
+background-color: burlywood;
 }
 
 h1 {
-   font-size: 13rem;
+   font-size: 16rem;
    font-family: Montserrat;
 }
 
